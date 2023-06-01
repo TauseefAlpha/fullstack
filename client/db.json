@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "email": "john@gmail.com",
+      "password": "$2b$10$y62txxSxNVwEkFXn5IC5qOq5gHQAKX9vF5kG2Qd1MCbwrCJ8DrAZW",
+      "firstName": "john",
+      "lastName": "ahmad",
+      "id": 1
+    },
+    {
+      "email": "jane@gmail.com",
+      "password": "$2b$10$wOwpH0sYsLs.HABbzWac.uvAl0mUuE6UfA6rIkF6TjT6nZsYsZsJu",
+      "firstName": "jane",
+      "lastName": "alpha",
+      "id": 2
+    },
+    {
+      "email": "amnabibi@gmail.com",
+      "password": "$2a$10$1vMxIYiT91L3YeNwuleALegu0rJURZoNVydVEQqr60Cac7JR1Vy1a",
+      "firstName": "amna",
+      "lastName": "bibi",
+      "id": 3
+    },
+    {
+      "email": "aliarshad@gmail.com",
+      "password": "$2a$10$vQ5RxDlvREBv.K21A2HeWevR4Dvln9cybrUf8uKqcyIozA.ST3Jpi",
+      "firstName": "ali",
+      "lastName": "arshad",
+      "id": 4
+    },
+    {
+      "email": "ahmedtausef98@gmail.com",
+      "password": "$2a$10$PuLMroh.wWhZKgCJY78H0.w1vh07frBq5.Azf2psL4rDm/.2q9ZZC",
+      "firstName": "Tauseef",
+      "lastName": "Ahmad",
+      "id": 5
+    },
+    {
+      "email": "sadia@gmail.cpm",
+      "password": "$2a$10$qJnX6VmXa4sjk6x1kTetBu0.rllVlfJWkiV.lzx/kecbGEHP.Tpg2",
+      "firstName": "sadia",
+      "lastName": "bibi",
+      "id": 6
+    },
+    {
+      "email": "farahandev@gmail.com",
+      "password": "$2a$10$dXeRj2XdEUTqVSYKs.DYdudv68BCtFPYdUA65R1lEsKusssnabWTG",
+      "firstName": "farahan",
+      "lastName": "dev",
+      "id": 7
+    }
+  ]
+}
